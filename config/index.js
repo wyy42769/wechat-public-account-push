@@ -162,7 +162,7 @@ export const config = {
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
   PROVINCE: "黑龙江",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "海伦市",
+  CITY: "海伦",
 
   /** 重要节日相关 */
 
